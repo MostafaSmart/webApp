@@ -2086,6 +2086,15 @@
   "my_orders_empty": "لا توجد طلبات بعد",
   "scan_qr_hint_order": "وجّه الكاميرا نحو رمز QR الخاص بالطلب",
   "more_section_account": "الحساب",
-  "more_share_app_message": "جرّب تطبيق متجر الكتب — حمّله من Google Play:"
+  "more_share_app_message": "جرّب تطبيق متجر الكتب — حمّله من Google Play:",
+  "more_contact": "تواصل",
+  "contact_title": "تواصل",
+  "contact_about_label": "نبذة عن المتجر",
+  "contact_phone_label": "الهاتف",
+  "contact_website_label": "الموقع الإلكتروني",
+  "contact_whatsapp_label": "واتساب",
+  "contact_load_error": "تعذّر تحميل بيانات التواصل",
+  "contact_empty": "لا تتوفر معلومات تواصل حالياً",
+  "contact_link_failed": "تعذّر فتح الرابط"
 
 }

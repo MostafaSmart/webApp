@@ -1912,6 +1912,15 @@
   "client_camera": "Fotoğraf çek",
   "client_registration_success": "Müşteri başarıyla kaydedildi",
   "client_lookup_title": "Müşteri ara",
-  "client_lookup_message": "Devam etmek için müşteri telefon numarasını girin"
+  "client_lookup_message": "Devam etmek için müşteri telefon numarasını girin",
+  "more_contact": "İletişim",
+  "contact_title": "İletişim",
+  "contact_about_label": "Mağaza hakkında",
+  "contact_phone_label": "Telefon",
+  "contact_website_label": "Web sitesi",
+  "contact_whatsapp_label": "WhatsApp",
+  "contact_load_error": "İletişim bilgileri yüklenemedi",
+  "contact_empty": "İletişim bilgisi mevcut değil",
+  "contact_link_failed": "Bağlantı açılamadı"
 
 }

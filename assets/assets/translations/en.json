@@ -2103,5 +2103,14 @@
   "my_orders_empty": "No orders yet",
   "scan_qr_hint_order": "Point the camera at the order QR code",
   "more_section_account": "Account",
-  "more_share_app_message": "Try Book Store — get it on Google Play:"
+  "more_share_app_message": "Try Book Store — get it on Google Play:",
+  "more_contact": "Contact",
+  "contact_title": "Contact",
+  "contact_about_label": "About the store",
+  "contact_phone_label": "Phone",
+  "contact_website_label": "Website",
+  "contact_whatsapp_label": "WhatsApp",
+  "contact_load_error": "Could not load contact information",
+  "contact_empty": "Contact information is not available",
+  "contact_link_failed": "Could not open the link"
 }
